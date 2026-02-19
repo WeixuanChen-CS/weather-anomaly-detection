@@ -24,7 +24,7 @@ The pipeline includes data cleaning, normalization, feature scaling, anomaly sco
 ---
 
 ## Project Structure
-
+```
 weather-anomaly-detection/
 │
 ├── src/
@@ -35,9 +35,8 @@ weather-anomaly-detection/
 │ └── Density_k15.png
 │
 ├── README.md
-└── .gitignore
 
-
+```
 ---
 
 ## Key Highlights
